@@ -1,0 +1,116 @@
+
+     [
+      {
+        "id": 1,
+        "estate_title": "Luxury Beach House",
+        "segment_name": "Residential",
+        "description": "Stunning beachfront property with panoramic ocean views. This modern beach house offers luxurious living in a prime location.",
+        "price": "$2,500,000",
+        "status": "Sale",
+        "area": "4000 sq ft",
+        "location": "Malibu, CA",
+        "facilities": ["Swimming Pool", "Beach Access", "Home Theater"],
+        "image": "https://i.ibb.co/h2y5Rqg/11.jpg",
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "garage": 2,
+        "year_built": 2016,
+        "lot_size": "0.3 acres",
+        "nearby_attractions": ["Malibu Pier", "Zuma Beach", "Getty Villa"]
+
+      },
+      {
+        "id": 2,
+        "estate_title": "Modern City Apartment",
+        "segment_name": "Residential",
+        "description": "Contemporary apartment in the heart of downtown. This sleek apartment offers urban living with convenient access to city amenities.",
+        "price": "$800,000",
+        "status": "Sale",
+        "area": "1500 sq ft",
+        "location": "New York, NY",
+        "facilities": ["Gym", "Balcony", "24/7 Security"],
+        "image": "https://i.ibb.co/rdr3mBH/22.jpg",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking": "Parking Garage",
+        "floor_level": "10th Floor",
+        "year_built": 2016,
+        "nearby_attractions": ["Central Park", "Times Square", "Empire State Building"]
+
+      },
+      {
+        "id": 3,
+        "estate_title": "Cozy Suburban Home",
+        "segment_name": "Residential",
+        "description": "Charming suburban home with spacious backyard. This cozy home offers tranquility and comfort in a family-friendly neighborhood.",
+        "price": "$600,000",
+        "status": "Sale",
+        "area": "2500 sq ft",
+        "location": "Denver, CO",
+        "facilities": ["Backyard", "Fireplace", "Garage"],
+        "image": "https://i.ibb.co/SNx5TxT/33.jpg",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "year_built": 2016,
+        "lot_size": "0.2 acres",
+        "nearby_attractions": ["Denver Zoo", "Red Rocks Park", "Denver Botanic Gardens"]
+
+      },
+      {
+        "id": 4,
+        "estate_title": "Riverside Villa",
+        "segment_name": "Residential",
+        "description": "Elegant villa overlooking the river. This picturesque villa offers serene waterfront living with lush landscaping.",
+        "price": "$1,200,000",
+        "status": "Sale",
+        "area": "3500 sq ft",
+        "location": "Austin, TX",
+        "facilities": ["Swimming Pool", "Garden", "Deck"],
+        "image": "https://i.ibb.co/gj8b83g/44.jpg",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "year_built": 2016,
+        "lot_size": "0.5 acres",
+        "nearby_attractions": ["Lady Bird Lake", "Zilker Park", "Texas State Capitol"]
+
+      },
+      {
+        "id": 5,
+        "estate_title": "Mountain Retreat",
+        "segment_name": "Residential",
+        "description": "Secluded retreat nestled in the mountains. This peaceful retreat offers breathtaking views and access to outdoor activities.",
+        "price": "$900,000",
+        "status": "Sale",
+        "area": "3000 sq ft",
+        "location": "Aspen, CO",
+        "facilities": ["Hot Tub", "Hiking Trails", "Scenic Views"],
+        "image": "https://i.ibb.co/jVgfTD3/55.jpg",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "year_built": 2016,
+        "lot_size": "1 acre",
+        "nearby_attractions": ["Aspen Mountain", "Maroon Bells", "Aspen Art Museum"]
+
+      },
+      {
+        "id": 6,
+        "estate_title": "Golf Course Estate",
+        "segment_name": "Residential",
+        "description": "Exquisite estate overlooking the golf course. This luxurious estate offers refined living with stunning golf course views.",
+        "price": "$1,800,000",
+        "status": "Sale",
+        "area": "5000 sq ft",
+        "location": "Palm Springs, CA",
+        "facilities": ["Golf Course Access", "Pool House", "Barbecue Area"],
+        "image": "https://i.ibb.co/M9NvbtY/66.jpg",
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "garage": 3,
+        "year_built": 2014,
+        "lot_size": "0.8 acres",
+        "nearby_attractions": ["Palm Springs Aerial Tramway", "Coachella Valley", "Indian Canyons"]
+
+      }
+    ]
+  
+  
